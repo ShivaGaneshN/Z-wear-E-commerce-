@@ -1,0 +1,63 @@
+/* OrderHistoryComponent.css */
+
+.order-history-container {
+    font-family: Arial, sans-serif;
+}
+
+.order-item {
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.order-item h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.order-items-list {
+    list-style: none;
+    padding: 0;
+}
+
+.order-item-details {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.order-item-details img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 5px;
+    margin-right: 15px;
+}
+
+.product-details {
+    flex: 1;
+}
+
+.product-name {
+    font-weight: bold;
+}
+
+.product-description {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.product-quantity,
+.product-price {
+    margin: 0;
+}
+
+/* Optional: Add some additional styling to make the component more visually appealing */
+
+.order-history-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+
