@@ -1,4 +1,4 @@
-Check out [LIVE DEMO](https://z-wear.netlify.app/) here!!
+Check out [LIVE DEMO](https://z-wearr.netlify.app/) here!!
 
 1. Git Clone
 
