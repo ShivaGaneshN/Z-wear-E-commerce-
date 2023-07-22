@@ -77,7 +77,7 @@ export default function CartCard(props) {
 								</div>
 							</div>
 						</div>,
-						document.getElementById("portal-root")
+						document.getElementById("root")
 				  )
 				: ""}
 		</>
